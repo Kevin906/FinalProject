@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 390cb7b14fe4a5845a9808f270970f98, type: 3}
+  m_Name: WoodBeam
+  m_EditorClassIdentifier: 
+  blockName: Wood Beam
+  prefab: {fileID: 0}
+  costMetal: 10
+  costEnergy: 5
+  buildTime: 1.5
+  health: 100
+  physicsType: 1
